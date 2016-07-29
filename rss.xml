@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Beatrice Plaiche]]></title>
+        <description><![CDATA[Beatrice Plaiche]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Jul 2016 06:44:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1b74b82-d93c-45a2-954d-cb5934cb6f56.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1b74b82-d93c-45a2-954d-cb5934cb6f56.jpg</link>
+            <guid isPermaLink="false">8b3b315d-db40-4e28-b5a3-1d7a6f35460f</guid>
+            <pubDate>Fri, 29 Jul 2016 06:44:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
