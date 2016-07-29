@@ -1,8 +1,9 @@
 layout_spectrum: 0.9390709
+typography_spectrum: 0.8691756
 color:
-  saturation: 0.6191731
-  lightness: 0.7354873
-  brandStrength: 0.5356374
+  saturation: 0.5017921
+  lightness: 0.7329749
+  brandStrength: 0.5340502
   brandColors:
     - '#FFFFFF'
     - '#4D4D4D'
@@ -10,5 +11,4 @@ color:
     - '#DEC0A8'
     - '#33282C'
   rhythmicContrast: 0.2943867
-typography_spectrum: 0.2776219
 name: Beatrice Plaiche
