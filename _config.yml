@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.8691756
 color:
-  saturation: 0.5017921
+  saturation: 1
   brandStrength: 1
-  lightness: 0.7329749
+  lightness: 0
   brandColors:
     - '#FFFFFF'
     - '#141323'
     - '#8A8991'
     - '#29BA9B'
     - '#176A7F'
-  rhythmicContrast: 0.2943867
-typography_spectrum: 0.8691756
+  rhythmicContrast: 1
 layout_spectrum: 0.9390709
 name: Beatrice Plaiche
