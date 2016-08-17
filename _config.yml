@@ -1,14 +1,26 @@
-layout_spectrum: 0.9390709
-typography_spectrum: 0.8691756
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.5017921
+  brandStrength: 1
   lightness: 0.7329749
-  brandStrength: 0.5340502
   brandColors:
     - '#FFFFFF'
-    - '#4D4D4D'
-    - '#7D6460'
-    - '#DEC0A8'
-    - '#33282C'
+    - '#141323'
+    - '#8A8991'
+    - '#29BA9B'
+    - '#176A7F'
   rhythmicContrast: 0.2943867
+typography_spectrum: 0.8691756
+layout_spectrum: 0.9390709
 name: Beatrice Plaiche
